@@ -20,3 +20,11 @@
 
 7. 아나콘다 프롬프트 텍스트 초기화
   cls
+
+# Pycharm - Github  connecting
+
+1. 깃허브에서 repository를 만든다.
+2. readme와 .gitignore를 추가해준다.
+3. 파이참에 들어가서 깃허브와 연동한 뒤
+4. clone해서 깃허브에 있는 repository를 불러온다.
+5. 코딩을 한 후 commit and push 해준다.
