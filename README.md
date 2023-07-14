@@ -14,3 +14,9 @@
 
 5. 가상환경 비활성화
   conda deactivate
+
+6. 가상환경 버전확인
+   python -V
+
+7. 아나콘다 프롬프트 텍스트 초기화
+  cls
