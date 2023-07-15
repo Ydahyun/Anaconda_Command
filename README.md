@@ -28,3 +28,8 @@
 3. 파이참에 들어가서 깃허브와 연동한 뒤
 4. clone해서 깃허브에 있는 repository를 불러온다.
 5. 코딩을 한 후 commit and push 해준다.
+
+# 라이브러리 설치
+
+1. 넘파이
+  pip install numpy
