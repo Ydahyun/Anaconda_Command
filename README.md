@@ -31,5 +31,7 @@
 
 # 라이브러리 설치
 
-1. 넘파이
-  pip install numpy
+1. 넘파이  
+    pip install numpy
+2. 판다스  
+     pip install pandas
