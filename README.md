@@ -32,6 +32,13 @@
 # 라이브러리 설치
 
 1. 넘파이  
-    pip install numpy
+  pip install numpy
 2. 판다스  
-     pip install pandas
+  pip install pandas
+3. 사이킷런
+  pip install scikit-learn
+4. bs4
+  pip install beautifulsoup4
+5. requests
+  pip install requests
+to be added...
