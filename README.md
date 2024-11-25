@@ -41,7 +41,7 @@
   pip install beautifulsoup4
 5. requests  
   pip install requests
-6. matplotlib
+6. matplotlib  
    pip install matplotlib
 
 # to be added...
